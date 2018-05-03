@@ -2,7 +2,7 @@ const LineAPI = require('./api');
 const { Message, OpType, Location } = require('../line_types');
 let exec = require('child_process').exec;
 
-const myBot = ['uea937eb29a0304cb01d0f744e7e0be6c'];
+const myBot = ['u530b8459bbe36cc0652f7f976d9d917c'];
 
 
 function isAdminOrBot(param) {
